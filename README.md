@@ -1,6 +1,8 @@
-# React Learning projects 1 of 5
+# React Learning basic project
 
-This project is 1st of the 5 basic projects I have done to learn react.
+[Vercel Link](https://react-demo-one-eight.vercel.app)
+
+This project is one of the basic projects I have done to learn react.
 
 ## Learning Outcomes
 - basic syntaxes
@@ -8,12 +10,7 @@ This project is 1st of the 5 basic projects I have done to learn react.
 - routing
 - some styling and dev-tools
 
+
 Link To other projects:
-- 1st (this one) [Vercel Link](https://react-demo-one-eight.vercel.app)
-- [2nd](https://github.com/f4him/react-demo-two)
-- 3rd
-- 4th
-- 5th
-
-
-
+- [react demo project 2 (https://github.com/f4him/react-demo-two) 
+- [MERN stack E-commerce project](https://github.com/f4him/mern-stack-ecommerce)
